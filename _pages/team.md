@@ -9,65 +9,65 @@ permalink: /team/
 # Our Team
 
 ## Group Leader
-<img src="/images/karthik.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/karthik.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
-  <a href= "/karthik"><strong> Karthikeyan S </strong><br> </a>
+  <a href= "{{ site.baseurl }}/karthik"><strong> Karthikeyan S </strong><br> </a>
   Associate Professor <br>
   Materials Engineering, IISc
 </div>
 <div style="clear: both;"></div>
 
 ## Group Members
-<img src="/images/sazid.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/sazid.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
-  <a href="/sazid"><strong>Sazid Khan</strong></a> <br>
+  <a href="{{ site.baseurl }}/sazid"><strong>Sazid Khan</strong></a> <br>
   PhD Student <br>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/images/mohan.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/mohan.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
-  <a href= "/mohan"><strong> Mohan Kumar N</strong></a><br>
+  <a href= "{{ site.baseurl }}/mohan"><strong> Mohan Kumar N</strong></a><br>
   PhD Student <br>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/images/dapulou.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/dapulou.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
-  <a href= "/dapulou"><strong> Dapulou Joseph</strong></a><br>
+  <a href= "{{ site.baseurl }}/dapulou"><strong> Dapulou Joseph</strong></a><br>
   PhD Student <br>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/images/shiba.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/shiba.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
-  <a href= "/shiba"><strong> Shiba Sankar Dash</strong></a><br>
+  <a href= "{{ site.baseurl }}/shiba"><strong> Shiba Sankar Dash</strong></a><br>
   M.Tech (Res) Student <br>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/images/anup.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/anup.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
   <b>Anup Mandal</b><br>
   Research Associate <br>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/images/jyothsna.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/jyothsna.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
   <b>Kote Jyothsna</b><br>
   Research Associate <br>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/images/saem.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/saem.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
   <b>Saem Ahmed</b><br>
   Research Assistant <br>
 </div>
 <div style="clear: both;"></div>
 
-<img src="/images/shalini.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
+<img src="{{ site.baseurl }}/images/shalini.jpg" alt="" width="200" style="float: left; margin: 10px 20px 10px 0;">
 <div style="margin-top: 50px;">
   <b>Shalini Rajagopal</b><br>
   Secretary <br>
