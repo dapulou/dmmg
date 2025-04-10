@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div style="text-align: center;">
-  <img src="/images/iisc.jpg" alt="Logo" style="width: 100px; height: auto;">
+  <img src="{{ site.baseurl }}/images/iisc.jpg" alt="Logo" style="width: 100px; height: auto;">
 </div>
 
 <h1 style="text-align: center;">Deformation Mechanism and Modeling Group</h1>
@@ -15,7 +15,7 @@ permalink: /
 
 <div style="height: 40px;"></div>
 
-<img src="/images/group_photo.jpg" alt="" width="650" style="display: block; margin: 0 auto;">
+<img src="{{ site.baseurl }}/images/group_photo.jpg" alt="" width="650" style="display: block; margin: 0 auto;">
 
 Welcome to DMMG Lab! <br>
 **Our Focus:** Understanding the effect of length and time scales on mechanisms of plasticity and incorporating this knowledge in physically-based models.
