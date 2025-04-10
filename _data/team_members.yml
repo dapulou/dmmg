@@ -1,0 +1,10 @@
+
+
+- name: "This could be you!"
+  photo: rock.jpg
+  info: See <a href="joinus">openings</a> for more info
+  email: karthik@iisc.ac.in
+  number_educ: 0
+  education1:
+  education2:
+  education3:
